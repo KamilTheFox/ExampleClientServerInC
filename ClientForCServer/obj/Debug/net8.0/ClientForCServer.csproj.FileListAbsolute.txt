@@ -1,0 +1,14 @@
+D:\Projects\ClientForCServer\ClientForCServer\obj\Debug\net8.0\ClientForCServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ClientForCServer\ClientForCServer\obj\Debug\net8.0\ClientForCServer.AssemblyInfoInputs.cache
+D:\Projects\ClientForCServer\ClientForCServer\obj\Debug\net8.0\ClientForCServer.AssemblyInfo.cs
+D:\Projects\ClientForCServer\ClientForCServer\obj\Debug\net8.0\ClientForCServer.csproj.CoreCompileInputs.cache
+D:\Projects\ClientForCServer\ClientForCServer\bin\Debug\net8.0\ClientForCServer.exe
+D:\Projects\ClientForCServer\ClientForCServer\bin\Debug\net8.0\ClientForCServer.deps.json
+D:\Projects\ClientForCServer\ClientForCServer\bin\Debug\net8.0\ClientForCServer.runtimeconfig.json
+D:\Projects\ClientForCServer\ClientForCServer\bin\Debug\net8.0\ClientForCServer.dll
+D:\Projects\ClientForCServer\ClientForCServer\bin\Debug\net8.0\ClientForCServer.pdb
+D:\Projects\ClientForCServer\ClientForCServer\obj\Debug\net8.0\ClientForCServer.dll
+D:\Projects\ClientForCServer\ClientForCServer\obj\Debug\net8.0\refint\ClientForCServer.dll
+D:\Projects\ClientForCServer\ClientForCServer\obj\Debug\net8.0\ClientForCServer.pdb
+D:\Projects\ClientForCServer\ClientForCServer\obj\Debug\net8.0\ClientForCServer.genruntimeconfig.cache
+D:\Projects\ClientForCServer\ClientForCServer\obj\Debug\net8.0\ref\ClientForCServer.dll
