@@ -1,0 +1,17 @@
+## Build results
+[Bb]in/
+[Oo]bj/
+
+## Visual Studio
+.vs/
+debug/
+*.user
+*.aps
+
+## Logs
+logs/
+*.log
+
+## Cache
+.cache/
+/ClientForCServer/obj
